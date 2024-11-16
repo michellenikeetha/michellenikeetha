@@ -69,6 +69,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michellenikeetha&show_icons=true&locale=en&theme=vue-dark&count_private=true" alt="michellenikeetha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michellenikeetha&" alt="michellenikeetha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michellenikeetha&theme=vue-dark&hide_border=true" alt="michellenikeetha" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michellenikeetha" alt="michellenikeetha" /></a> </p>
