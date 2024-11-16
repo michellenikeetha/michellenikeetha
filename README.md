@@ -65,9 +65,9 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellenikeetha&show_icons=true&locale=en&layout=compact" alt="michellenikeetha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellenikeetha&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="michellenikeetha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michellenikeetha&show_icons=true&locale=en&theme=vue-dark&count_private=true" alt="michellenikeetha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michellenikeetha&show_icons=true&locale=en&theme=vue-dark&count_private=true&hide_border=true" alt="michellenikeetha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michellenikeetha&theme=vue-dark&hide_border=true" alt="michellenikeetha" /></p>
 
