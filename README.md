@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Michelle Perera</h1> 
 <p align="center"> <img src="https://img.shields.io/github/followers/michellenikeetha?style=social&logo=github" alt="GitHub Followers" /> </p> 
 
-<h3 align="center">A passionate developer from Sri Lanka 🌴</h3>
+<h2 align="center">A passionate developer from Sri Lanka 🌴</h2>
 
 <h3 align="left">🌱 About Me</h3>
 
@@ -69,10 +69,10 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellenikeetha&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="michellenikeetha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellenikeetha&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="michellenikeetha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michellenikeetha&show_icons=true&locale=en&theme=vue-dark&count_private=true&hide_border=true" alt="michellenikeetha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michellenikeetha&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="michellenikeetha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michellenikeetha&theme=vue-dark&hide_border=true" alt="michellenikeetha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michellenikeetha&theme=tokyonight&hide_border=true" alt="michellenikeetha" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michellenikeetha" alt="michellenikeetha" /></a> </p>
