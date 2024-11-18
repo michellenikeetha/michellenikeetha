@@ -8,13 +8,17 @@
 <h3 align="center">A passionate developer from Sri Lanka 🌴</h3>
 
 <h3 align="left">🌱 About Me</h3>
-- 🔭 I’m currently working on exciting web development projects
-- 🌱 Learning Mobile Application Development
+
+- 🔭 I’m currently working on exciting Web Development Projects
+
+- 🌱 Learning **Mobile Application Development**
+
 - 💬 Ask me about web development, Selenium, or Spring Boot
+
 - 📫 Reach me at **michellenikeetha@gmail.com**
 
 <h3 align="left">🌐 Connect with me:</h3>
-<div align="center"> 
+<div align="left"> 
   <a href="https://linkedin.com/in/michelle-perera-79a24b136" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michelle Perera LinkedIn" /> 
   </a> 
