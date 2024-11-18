@@ -1,26 +1,30 @@
-<div align="center">
-  <img height="150" src="https://indoanalytica.com/static/images/bannerr.gif"  />
+<div align="center"> 
+  <img height="150" src="https://indoanalytica.com/static/images/bannerr.gif" /> 
+</div> 
+
+<h1 align="center">Hi 👋, I'm Michelle Perera</h1> 
+<p align="center"> <img src="https://img.shields.io/github/followers/michellenikeetha?style=social&logo=github" alt="GitHub Followers" /> </p> 
+
+<h2 align="center">A passionate developer from Sri Lanka 🌴</h2>
+
+<h3 align="left">🌱 About Me</h3>
+
+- 🔭 I’m currently working on exciting Web Development Projects
+
+- 🌱 Learning **Mobile Application Development**
+
+- 💬 Ask me about web development, Selenium, or Spring Boot
+
+- 📫 Reach me at **michellenikeetha@gmail.com**
+
+<h3 align="left">🌐 Connect with me:</h3>
+<div align="left"> 
+  <a href="https://linkedin.com/in/michelle-perera-79a24b136" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michelle Perera LinkedIn" /> 
+  </a> 
 </div>
 
-<h1 align="center">Hi 👋, I'm Michelle Perera</h1>
-<img src="https://img.shields.io/github/followers/michellenikeetha?style=social flat-square"> 
-
-<h3 align="center">A passionate developer from Sri Lanka India</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=michellenikeetha&label=Profile%20views&color=0e75b6&style=flat" alt="michellenikeetha" /> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
-- 🌱 I’m currently learning **Mobile Application Development**
-
-- 📫 How to reach me **michellenikeetha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/michelle-perera-79a24b136" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michelle-perera-79a24b136" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -63,7 +67,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michellenikeetha&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="michellenikeetha" /></p>
 
